@@ -17,3 +17,4 @@
 *.RTF	 diff=astextplain
 
 Battle City/* linguist-generated
+*.aspx linguist-generated
