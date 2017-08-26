@@ -1,4 +1,4 @@
 # Battle-City
 Simple tank-vs-monsters game
 
-![Image of Yaktocat](https://preview.ibb.co/g9wynQ/bc.png)
+![Battle City](https://preview.ibb.co/g9wynQ/bc.png)
